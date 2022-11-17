@@ -13,6 +13,8 @@ In this dataframe we analyze:
 - Percentage of students who passed reading
 - Percentage of students who passed math and reading
 
+![District Summary](PyCitySchools/images/DistrictSummary.PNG)
+
 ## School Summary
 In this dataframe we analyze key metrics regarding each individual school, including:
 - School name
@@ -24,6 +26,8 @@ In this dataframe we analyze key metrics regarding each individual school, inclu
 - Percentage of students who passed math
 - Percentage of students who passed reading
 - Percentage of students who passed math and reading
+
+![District Summary](PyCitySchools/images/SchoolSummary.PNG)
 
 ## Highest-Performing Schools by Overall Percent
 This dataframe displays the top-5 performing schools based on the percentage of students who passed math and reading. The following metrics are included in the results:
@@ -38,6 +42,8 @@ This dataframe displays the top-5 performing schools based on the percentage of 
 - Percentage of students who passed reading
 - Percentage of students who passed math and reading
 
+![District Summary](PyCitySchools/images/TopPerforming.PNG)
+
 ## Lowest-Performing Schools by Overall Percent
 This dataframe displays the bottom-5 performing schools based on the percentage of students who passed math and reading. The following metrics are included in the results:
 - School name
@@ -51,11 +57,17 @@ This dataframe displays the bottom-5 performing schools based on the percentage 
 - Percentage of students who passed reading
 - Percentage of students who passed math and reading
 
+![District Summary](PyCitySchools/images/BottomPerforming.PNG)
+
 ## Math Scores by Grade
 In this dataframe is a list of the average math scores of each grade level (9th-12th) for each individual school. 
 
+![District Summary](PyCitySchools/images/MathScoreByGrade.PNG)
+
 ## Reading Scores by Grade
 In this dataframe is a list of the average reading scores of each grade level (9th-12th) for each individual school. 
+
+![District Summary](PyCitySchools/images/ReadingScoreByGrade.PNG)
 
 ## Scores by School Spending
 This table breaks down school performancess based on average spending ranges per student. Metrics for this table include:
