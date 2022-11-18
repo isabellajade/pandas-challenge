@@ -3,7 +3,7 @@
 In this project I used Pandas and Jupyter Notebook to create multiple reports that analyze the schools within the district in order for them to make strategic decisions regarding future school budgets and priorities. 
 
 ## Observable Trends
-Based off the data tables you can observe that charter schools have a higher overall passing percentage compared to district schools. Another trend is that larger sized schools have a lower overall passing percentage compared to small and medium sized schools.
+Based off the data tables you can observe that charter schools have a higher overall passing percentage compared to district schools, this is also represented as all five top-performing schools are charter, and all five bottom-performing schools are district. Another trend is that larger sized schools have a lower overall passing percentage compared to small and medium sized schools.
 
 ## District Summary
 In this dataframe we analyze:
@@ -47,7 +47,7 @@ This dataframe displays the top-5 performing schools based on the percentage of 
 
 ![Highest Performing](PyCitySchools/images/TopPerforming.PNG)
 
-## Lowest-Performing Schools by Overall Percent
+## Bottom-Performing Schools by Overall Percent
 This dataframe displays the bottom-5 performing schools based on the percentage of students who passed math and reading. The following metrics are included in the results:
 - School name
 - School type
